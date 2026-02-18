@@ -1,0 +1,27 @@
+- name: "Jhansi Gandi"
+  dob: "1992-07-15"
+  mobile number: 8671728990
+  address:
+    - flat number: 101
+      street: GP palya
+      city: bangalore
+      type: current
+
+    - flat number: 102
+      street: GP palya
+      city: bangalore
+      type: perm
+
+- name: "Venkatesh"
+  dob: "1992-07-15"
+  mobile number: 8671728990
+  address:
+    - flat number: 103
+      street: GP palya
+      city: bangalore
+      type: current
+
+    - flat number: 104
+      street: GP palya
+      city: bangalore
+      type: perm
